@@ -1,0 +1,12 @@
+{
+	"arrowParens": "avoid",
+	"endOfLine": "crlf",
+	"eslintIntegration": false,
+	"htmlWhitespaceSensitivity": "strict",
+	"printWidth": 180,
+	"proseWrap": "never",
+	"quoteProps": "as-needed",
+	"singleQuote": true,
+	"trailingComma": "all",
+	"useTabs": true
+}
